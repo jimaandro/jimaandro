@@ -32,14 +32,6 @@ A passionate **hardware design engineer** with a background in FPGA design, SoC 
 
 <br>
 
-<div align="center">
-
-[![Dimitris's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimaandro&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/jimaandro)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimaandro&layout=compact&theme=transparent&hide_border=true)](https://github.com/jimaandro)
-
-</div>
-
 <br>
 
 <div align="center">
